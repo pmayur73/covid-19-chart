@@ -15,5 +15,9 @@
     "url": "https://github.com/pmayur73/covid-19-chart.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmayur73/covid-19-chart/issues"
+  },
+  "homepage": "https://pmayur73.github.io/covid-19-chart"
 }

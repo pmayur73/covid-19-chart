@@ -22,7 +22,7 @@
                let casesList = [];
                const listOfData = response.data;
                console.log(listOfData);
-               const limit = listOfData.slice(8,30);
+               const limit = listOfData.slice(0,15);
                
                limit.forEach(element => {
                   let countries = element.country;

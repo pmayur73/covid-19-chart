@@ -21,8 +21,14 @@ h1{
   width: 355px;
 } */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
   .wash-hand {
     width: 355px;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+  .wash-hand {
+    width: 400px;
   }
 }

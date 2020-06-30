@@ -16,3 +16,19 @@ h1{
   /* height: 50% !important;
   width: 50% !important; */
 }
+
+/* .wash-hand {
+  width: 355px;
+} */
+
+@media screen and (max-width: 400px) {
+  .wash-hand {
+    width: 355px;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+  .wash-hand {
+    width: 400px;
+  }
+}

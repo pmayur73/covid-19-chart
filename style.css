@@ -17,6 +17,12 @@ h1{
   width: 50% !important; */
 }
 
-.wash-hand {
+/* .wash-hand {
   width: 355px;
+} */
+
+@media screen and (max-width: 800px) {
+  .wash-hand {
+    width: 355px;
+  }
 }
